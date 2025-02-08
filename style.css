@@ -12,7 +12,7 @@
     padding: 70px;
 }
 
-#header{
+#header,#skills,#education,#Internship,#links{
     margin: 20px;
 }
 
@@ -22,12 +22,17 @@ h2{
     padding: 10px 0px;
 }
 
-#role{
+h3{
+    font-size: 22px;
     font-weight: 600;
-    font-style: italic;
     color:rgb(22 163 74);
+    margin: 18px 0px;
 }
+
+#role{
+    font-style: italic;
+}
+
 #header p{
     margin: 15px 0px;
-    
 }
