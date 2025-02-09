@@ -36,3 +36,20 @@ h3{
 #header p{
     margin: 15px 0px;
 }
+
+ul{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(76, 22, 163);
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+    font-weight: 500;
+}
